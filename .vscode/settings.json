@@ -1,0 +1,6 @@
+{
+    "php.suggest.basic": false,
+    "phpcs.enable": true,
+    "phpcs.executablePath": "vendor/squizlabs/php_codesniffer/bin/phpcs",
+    "phpcs.standard": null
+}
